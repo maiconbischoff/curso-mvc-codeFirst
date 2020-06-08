@@ -30,6 +30,9 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
+              "C:\\Users\\MaiconBischoffBischo\\Documents\\Projetos\\curso-mvc-codeFirst\\CursoMVC\\CursoMVC\\CursoMVC.csproj": {
+                "projectPath": "C:\\Users\\MaiconBischoffBischo\\Documents\\Projetos\\curso-mvc-codeFirst\\CursoMVC\\CursoMVC\\CursoMVC.csproj"
+              },
               "C:\\Users\\MaiconBischoffBischo\\source\\repos\\CursoMVC\\CursoMVC\\CursoMVC.csproj": {
                 "projectPath": "C:\\Users\\MaiconBischoffBischo\\source\\repos\\CursoMVC\\CursoMVC\\CursoMVC.csproj"
               }
@@ -54,6 +57,84 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MaiconBischoffBischo\\Documents\\Projetos\\curso-mvc-codeFirst\\CursoMVC\\CursoMVC\\CursoMVC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MaiconBischoffBischo\\Documents\\Projetos\\curso-mvc-codeFirst\\CursoMVC\\CursoMVC\\CursoMVC.csproj",
+        "projectName": "CursoMVC",
+        "projectPath": "C:\\Users\\MaiconBischoffBischo\\Documents\\Projetos\\curso-mvc-codeFirst\\CursoMVC\\CursoMVC\\CursoMVC.csproj",
+        "packagesPath": "C:\\Users\\MaiconBischoffBischo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MaiconBischoffBischo\\Documents\\Projetos\\curso-mvc-codeFirst\\CursoMVC\\CursoMVC\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MaiconBischoffBischo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlserver": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.Extensions.Logging.Debug": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.0.0, )"
             }
           },
           "imports": [

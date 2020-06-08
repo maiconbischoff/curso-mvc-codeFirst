@@ -8338,8 +8338,8 @@
     },
     "CursoMVC/1.0.0": {
       "type": "project",
-      "path": "../../../../../source/repos/CursoMVC/CursoMVC/CursoMVC.csproj",
-      "msbuildProject": "../../../../../source/repos/CursoMVC/CursoMVC/CursoMVC.csproj"
+      "path": "../CursoMVC/CursoMVC.csproj",
+      "msbuildProject": "../CursoMVC/CursoMVC.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -8379,6 +8379,9 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
+            "C:\\Users\\MaiconBischoffBischo\\Documents\\Projetos\\curso-mvc-codeFirst\\CursoMVC\\CursoMVC\\CursoMVC.csproj": {
+              "projectPath": "C:\\Users\\MaiconBischoffBischo\\Documents\\Projetos\\curso-mvc-codeFirst\\CursoMVC\\CursoMVC\\CursoMVC.csproj"
+            },
             "C:\\Users\\MaiconBischoffBischo\\source\\repos\\CursoMVC\\CursoMVC\\CursoMVC.csproj": {
               "projectPath": "C:\\Users\\MaiconBischoffBischo\\source\\repos\\CursoMVC\\CursoMVC\\CursoMVC.csproj"
             }

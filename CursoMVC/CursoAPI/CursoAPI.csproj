@@ -18,6 +18,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\..\..\..\source\repos\CursoMVC\CursoMVC\CursoMVC.csproj" />
+    <ProjectReference Include="..\CursoMVC\CursoMVC.csproj" />
   </ItemGroup>
 
 </Project>
