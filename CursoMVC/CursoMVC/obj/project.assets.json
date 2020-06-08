@@ -8161,11 +8161,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MaiconBischoffBischo\\source\\repos\\CursoMVC\\CursoMVC\\CursoMVC.csproj",
+      "projectUniqueName": "C:\\Users\\MaiconBischoffBischo\\Documents\\Projetos\\curso-mvc-codeFirst\\CursoMVC\\CursoMVC\\CursoMVC.csproj",
       "projectName": "CursoMVC",
-      "projectPath": "C:\\Users\\MaiconBischoffBischo\\source\\repos\\CursoMVC\\CursoMVC\\CursoMVC.csproj",
+      "projectPath": "C:\\Users\\MaiconBischoffBischo\\Documents\\Projetos\\curso-mvc-codeFirst\\CursoMVC\\CursoMVC\\CursoMVC.csproj",
       "packagesPath": "C:\\Users\\MaiconBischoffBischo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MaiconBischoffBischo\\source\\repos\\CursoMVC\\CursoMVC\\obj\\",
+      "outputPath": "C:\\Users\\MaiconBischoffBischo\\Documents\\Projetos\\curso-mvc-codeFirst\\CursoMVC\\CursoMVC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -8179,9 +8179,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Users\\MaiconBischoffBischo\\Documents\\Projetos\\omega-api\\OmegaAPI\\packages": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://soa-hml.bancorenner.com.br/nugetpkg/nuget": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.0": {

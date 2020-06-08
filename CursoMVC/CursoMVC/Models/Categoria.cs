@@ -12,6 +12,6 @@ namespace CursoMVC.Models
         [Display(Name = "Descriçao")] //cria uma dataannotation com a label descriçao
         [Required(ErrorMessage = "O campo Descrição é obrigatoria")]
         public string Descricao { get; set;}
-        public List<Produto> Produtos { get; set; } //set relationship with produtos
+        //public virtual List<Produto> Produtos { get; set; } //set relationship with produtos
     }
 }

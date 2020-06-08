@@ -242,3 +242,5 @@ C:\Users\MaiconBischoffBischo\source\repos\CursoMVC\CursoTest\bin\Debug\netcorea
 C:\Users\MaiconBischoffBischo\source\repos\CursoMVC\CursoTest\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\MaiconBischoffBischo\source\repos\CursoMVC\CursoTest\bin\Debug\netcoreapp3.0\Castle.Core.dll
 C:\Users\MaiconBischoffBischo\source\repos\CursoMVC\CursoTest\bin\Debug\netcoreapp3.0\Moq.dll
+C:\Users\MaiconBischoffBischo\Documents\Projetos\curso-mvc-codeFirst\CursoMVC\CursoTest\obj\Debug\netcoreapp3.0\CursoTest.dll
+C:\Users\MaiconBischoffBischo\Documents\Projetos\curso-mvc-codeFirst\CursoMVC\CursoTest\obj\Debug\netcoreapp3.0\CursoTest.pdb
